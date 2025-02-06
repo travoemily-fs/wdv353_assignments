@@ -14,6 +14,6 @@ This first coding assessment tests:
 ### To evaluate your solution, you should look for:
 
 - [x] Proper conversation of callback-based functions to Promise-based functions.
-- [] Correct use of Promise chaining with the .then() methods.
-- [] Logical flow of data through the Promise chain.
-- [] Error handling implementation (for bonus points).
+- [x] Correct use of Promise chaining with the .then() methods.
+- [x] Logical flow of data through the Promise chain.
+- [x] Error handling implementation (for bonus points).
