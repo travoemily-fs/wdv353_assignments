@@ -1,6 +1,21 @@
-## 🖥️ WDV353: Server-Side Languages Repo
+## 🔐📚 WDV353: Server-Side Languages Class Repo
 
-This repository will hold any/all coding assessment assignments for class this month.
+This repo will house various assignments and lectures for this class!
+
+## 🔗 Student info
+
+**♑ Full Name:** Emily Travo <br>
+**🔑 Student ID:** 0005303522 <br>
+**⌛ Timezone:** PST <br>
+📬 Contact: EATravo@student.fullsail.edu
+
+![Degree Program](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
+<br>
+
+## ℹ️ Repo Directory
+
+- [1.3 NodeJS Posting](#13-nodejs-posting)
+- [assignment](link)
 
 ## 1.3 NodeJS Posting
 
